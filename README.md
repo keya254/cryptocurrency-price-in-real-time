@@ -1,3 +1,33 @@
 # cryptocurrency-price-in-real-time
-python script
-returns cryptocurrencies prices based on your selection
+
+## Description
+
+This is a python project whereby we return cryptocurrencies prices based on selection
+## Contributors
+
+So far there are no contributors in this project.
+
+## Technologies Used
+ - python
+
+## Contact Information
+
+* Email- brianosiemokeya@gmail.com
+* Mobile Number- +254702846542
+* Instagram @ keya_osiemo
+* Facebook @ brian osiemo keya
+
+## License
+
+Licenced by
+
+MIT License
+
+Copyright (c) [2021] [keya254]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
